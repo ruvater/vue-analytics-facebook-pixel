@@ -50,7 +50,7 @@
     "vue": "2.0.6",
     "webpack": "^1.13.3"
   },
-  "main": "src/index.js",
+  "main": "dist/vue-analytics-facebook-pixel.js",
   "repository": {
     "url": "https://github.com/wemake-services/vue-analytics-facebook-pixel.git",
     "type": "git"
